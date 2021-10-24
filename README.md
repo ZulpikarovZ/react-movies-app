@@ -1,4 +1,4 @@
-Приложение для поиска фильмов. Реализация со сторонним API
+React SinglePageApplication - Приложение для поиска фильмов. Реализация со сторонним API
 ![image](https://user-images.githubusercontent.com/45043894/138611172-29c2d091-701d-4374-9019-f79178b9579e.png)
 
 Получаем и ищем фильмы через API themoviedb.org
